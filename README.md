@@ -11,9 +11,9 @@
 
 - 👤 **About me:** 19y/o student from Germany
 - 🖥️ **Developing:** Software and Web Applications
-- 🌱 **Currently learning:** PyTorch
+- 🌱 **Currently learning:** C# (ASP.Net, MVC, WinForms, DevExpress), PyTorch (Paused)
 - 💼 **Working on:** too many side projects
-- 🚀 **I want to learn:** C#, Mobile Development,
+- 🚀 **I want to learn:** Mobile Development, MCP
 
 ---
 
@@ -23,10 +23,10 @@
 > ![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap)
 
 ### Backend
-> ![Languages](https://skillicons.dev/icons?i=java,kotlin,cpp,python,mysql,firebase,nodejs)
+> ![Languages](https://skillicons.dev/icons?i=java,cs,python,cpp,mysql,firebase,nodejs)
 
 ### Tools
-> ![Tools](https://skillicons.dev/icons?i=git,github,idea,pycharm,vscode,figma)
+> ![Tools](https://skillicons.dev/icons?i=git,github,idea,pycharm,rider,visualstudio,vscode,figma)
 
 
 <p align="center">
